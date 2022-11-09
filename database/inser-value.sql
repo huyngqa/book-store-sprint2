@@ -1,0 +1,2 @@
+INSERT INTO `book-store`.`user` (`id`, `address`, `email`, `gender`, `money`, `name`, `password`, `phone`) VALUES ('1', 'Đà Nẵng', 'huynguqa@gmail.com', '1', '100000', 'Nguyễn Minh Huy', '$10$u4eSH39RlgwQMPSJSdqlce81voTXRyd.lf5HFLWFwG/TtAU2zNh/.', '0921224658');
+INSERT INTO `book-store`.`user` (`id`, `address`, `email`, `gender`, `money`, `name`, `password`, `phone`) VALUES ('2', 'Đà Nẵng', 'huynguyendn321@gmail.com', '0', '10000', 'Hồ Thị Mỹ Giang', '$10$u4eSH39RlgwQMPSJSdqlce81voTXRyd.lf5HFLWFwG/TtAU2zNh/.', '0798321123');
