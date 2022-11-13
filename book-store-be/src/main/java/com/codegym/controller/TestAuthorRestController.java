@@ -1,4 +1,4 @@
-package com.codegym.common;
+package com.codegym.controller;
 
 import com.codegym.model.User;
 import com.codegym.service.UserService;
