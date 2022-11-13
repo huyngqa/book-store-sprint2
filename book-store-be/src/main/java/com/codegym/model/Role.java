@@ -22,7 +22,4 @@ public class Role {
     private Integer id;
     @Column(nullable = false, length = 45)
     private String name;
-    @JsonBackReference(value = "role_users")
-    @ManyToMany(mappedBy = "roles")
-    private Set<User> users;
 }
